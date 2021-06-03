@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An honest man's wish for the Prince of Orange.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09244</idno><idno type="EEBO-CITATION">80922823</idno>
+  <idno type="VID">191887</idno>
+  <idno type="EEBO-PROQUEST">2248552183</idno>
+  
+            <idno type="OCLC"> 80922823</idno>
+            <idno type="STC">Wing H2588</idno>
+            <idno type="STC">ESTC R178111</idno>
+            <idno type="OCLC">80922823</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191887)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2894:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An honest man's wish for the Prince of Orange.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>printed in the year, 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term type="topical_term">Great Britain --  Politics and government --  Revolution of 1688 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191887:1"/>
+            <head>An Honest Man's VVISH FOR THE Prince of ORANGE.</head>
+            <list>
+               <item>I. I Could <hi>Wish</hi> (though now indeed it is too late to Wish,) That the King had so well consulted the Happiness of his own Person, his Children, and Subjects, as not to have deserted his Kingdomes, but to have treated and complied with the Prince of <hi>Orange,</hi> who (I believe) came not to demand the least thing Unreasonable. But since he is gone, and another Governour must be sought for,</item>
+               <item>II. I could <hi>Wish,</hi> That the Prince of <hi>Orange</hi>'s Title had not been so far Distant from the Crown: And that not only because He has with the greatest Toyl, Hazard, and Expence so generously undertook (and, I hope, compleated) our Deliverance from the very worst of Slavery and Bondage; but also because I believe Him to be a Person for Virtue, Goodness, Courage, Conduct, and all other Princely Qualifications most fit to Govern.</item>
+               <item>III. I could <hi>Wish,</hi> That for these High Services and Merits, an answerable Recompence might soon be thought of, and made to His Royal Highness. But then what is there in this World that can truly answer them? Surely these Three great and flourishing Kingdomes will never sufficiently requite such wonderful Desert. However</item>
+               <item>IV. I could <hi>Wish,</hi> That some Men who now seek to requite Him the Crown, would consider whether they do not at last requite Him with the greatest Affront and Injury. For whilst they pretend to Bestow or Give it, they do indeed confront the very Words of the Prince's own most Gracious Declaration, where in he assures Us that He came to preserve the Right of Succession. Now the Giving of it (I presume) must Suppose it to be in their Power or Disposal; and so it shall become meerly Elective, which will quite destroy the Right of Succession that He by Promise has engaged Himself to maintain. And then if there be any such thing as a Right of Succession, whilst they suppose that the Prince of <hi>Orange</hi> will accept the Crown from their Hands, they must needs suppose Him to be Unjust in receiving that which as yet belongs to another, unless they can prove that the Two next which ought to come in before him have any way forfeited their Right. And all this, I think, is no very Friendly Requital. But this may not prove the worst yet. For whilst they break the cou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se of Succession by Giving the Kingdome to Him, and make it thus Elective, they may possibly do the greatest Injury both to Him, and his Heirs after Him, though they should be the Issue of his own very Body. For the Son will have no better a Title than the Father: And as no Man knows whether his Son shall be a <hi>wise</hi> man, or a <hi>fool;</hi> so if he should seem a Fool in the Eyes of a Reigning Parliament or Convention, and not fit to Govern, then what is become of his Inheritance? And so for the Prince himself: should he receive the Crown now as a Gift from the Parliament or Convention, and that also by their most Unanimous Consent; yet still, I fear, he would not be very secure in the possession of it. For the Power that <hi>gives</hi> may soon challenge the same Power to <hi>take away</hi> likewise. And as the Humours of the Body Natural are said to be all changed once in Seven Years, so may it be (if not much sooner also) in such a Body Politick. Nor can this be any strange thing to suppose, if we consider the Years that are past. So that the Prince after all (if he receive the Crown by way of Do<g ref="char:EOLhyphen"/>nation, must be bound up to His Good Behaviour, and have a great care of Provoking or Disobliging, lest the very Donor pretend some kind of Forfeiture. Again, suppose a great part of the Three Kingdomes should be possessed with the Injustice of His Title, and appear in Earnest for One whose Right it is, who knows but such Struglings and Convulsions may follow, as may make Him the most Unhappy who is doubtless the most Meritorious among Princes? And therefore for these Reasons, Lastly</item>
+               <item>V. I could <hi>Wish,</hi> That the Wisdome of the Nation at this time Conveen'd, would think of some other way to express their Gratitude to this Most Excellent Prince, who under God has been Our only Deliverer. And doubtless no good Protestant can ever think they go too far, whilst they act by the Rules of Law and Justice, without Subverting the Old Founda<g ref="char:EOLhyphen"/>tion. But because after all, nothing that we can do will be a Valuable Compensation for His Merits; I shall turn my good <hi>Wishes</hi> into most hearty <hi>Prayers,</hi> begging earnestly of God, That he would become His <hi>Exceeding great Reward,</hi> and give Him the Blessing of <hi>Abraham,</hi> who has been the wonderful Preserver, as he was the Father of the Faithful; That he would make his Temporal Glory, Joy, and Happiness great and lasting, and then change it into that which is Infinite and Eternal.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year, 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
